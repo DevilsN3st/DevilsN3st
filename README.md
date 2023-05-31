@@ -1,17 +1,76 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilsn3st" alt="devilsn3st" /></a> </p>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
+<br/>
+
+- 🎯 Portfolio website: [Portfolio](https://stellular-lily-04cbcc.netlify.app/)
+
+<br/>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-gupta-7a4660200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-gupta-7a4660200" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devils_nest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devils_nest" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hgharshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hgharshop" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hgharshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hgharshop" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-gupta-7a4660200" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="harsh-gupta-7a4660200" height="30" /></a>
+<a href="https://codeforces.com/profile/devils_nest" target="blank"><img align="center" src="https://codeforces.org/s/45640/images/codeforces-sponsored-by-ton.png" alt="devils_nest" height="30" /></a>
+<a href="https://www.leetcode.com/hgharshop" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="hgharshop" height="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hgharshop" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hgharshop" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilsn3st&show_icons=true&locale=en&layout=compact" alt="devilsn3st" /></p>
+
+```cpp
+class Harsh{
+public:
+  int AboutMe()
+  {
+	  string name,institute;
+	  string hobbies[3],skills[7];
+	  name="Harsh Gupta";
+	  institute="NIT Jamshedpur";
+	  hobbies={"Coding","SpeedCubing", "Photography"};
+	  skills={"Data Stuctures and Algorithms","C++", "JavaScript", "ReactJs", "NodeJs","MongoDB","Websockets"};
+  }
+}
+```
+<br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilsn3st&show_icons=true&locale=en&layout=compact" alt="devilsn3st" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=DevilsN3st&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+</a>
+
+<br/>
+
+
+🛠**Tech Stack**
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Node](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+
+<br/>
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by following me!</h3>
+</div>
