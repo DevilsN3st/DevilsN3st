@@ -10,7 +10,7 @@
 
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-gupta-7a4660200" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="harsh-gupta-7a4660200" height="30" /></a>
+<a href="https://linkedin.com/in/hg-harsh-gupta" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="harsh-gupta-7a4660200" height="30" /></a>
 <a href="https://codeforces.com/profile/devils_nest" target="blank"><img align="center" src="https://codeforces.org/s/45640/images/codeforces-sponsored-by-ton.png" alt="devils_nest" height="30" /></a>
 <a href="https://www.leetcode.com/hgharshop" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="hgharshop" height="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hgharshop" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hgharshop" height="30" /></a>
