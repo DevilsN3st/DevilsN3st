@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <br/>
 
@@ -25,22 +25,18 @@ class Harsh{
 public:
   int AboutMe()
   {
-	  string name,institute;
-	  string hobbies[3],skills[7];
+	  string name, institute;
+	  string hobbies[4], languages[4];
 	  name="Harsh Gupta";
 	  institute="NIT Jamshedpur";
-	  hobbies={"Coding","SpeedCubing", "Photography"};
-	  skills={"Data Stuctures and Algorithms","C++", "JavaScript", "ReactJs", "NodeJs","MongoDB","Websockets"};
+	  hobbies={"Coding","SpeedCubing", "Photography", "Astronomy"};
+          languages={"go/golang", "C/C++", "Javascript", "Java"}
   }
 }
 ```
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilsn3st&show_icons=true&locale=en&layout=compact" alt="devilsn3st" /></p>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=DevilsN3st&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-</a>
 
 <br/>
 
@@ -48,13 +44,14 @@ public:
 🛠**Tech Stack**
 
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/-javascript-000000?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -64,11 +61,17 @@ public:
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Node](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![AWS](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 <br/>
 <div align="center">
