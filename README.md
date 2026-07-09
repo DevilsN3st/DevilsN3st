@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <br/>
 
-- 🎯 Portfolio website: [Portfolio](https://stellular-lily-04cbcc.netlify.app/)
+- 🎯 Portfolio website: [Portfolio](https://hgupta.dev/)
 
 <br/>
 <p align="left">
